@@ -7,4 +7,4 @@ If you use a regular HTML editor, this **won't work properly**.
 The code here is using React JS, so I would reccomend using an open-source editor, such as CodeSandbox.
 ## CodeSandbox: https://codesandbox.io
 
-file:///Users/avyay/Downloads/Untitled.png
+(https://user-images.githubusercontent.com/65930700/210289111-5b695561-e63d-4479-895b-46a24f268986.png)
